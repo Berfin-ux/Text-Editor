@@ -1,2 +1,2 @@
 # Text-Editor
-Object Oriented Programming Lesson Project-2
+Ege University 3rd Year Object Oriented Programming Lesson Project-2
